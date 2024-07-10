@@ -8,9 +8,15 @@ Field Guide to Elyrium
 ### Status Effects
 #### Bleed Tokens
 
-An attack may cut deep into the flesh, tearing through muscle and into powerful veins. An attack that deals *Bleed X* (with X stacking), at the end of the target's next turn the target takes Xd4 damage, reducing the *Bleed* count by 1 each turn passively. It may be mitigated by an ally taking the *Help* action, the target or an ally passing a *Medicine* check of DC 10 + X, or by restoration spells.
+*An attack may cut deep into the flesh, tearing through muscle and into powerful veins. Crimson rivers of vitality pour out across the ground in great quantity throughout Elyrium.*
+
+An attack that deals *Bleed X* (with X stacking), at the end of the target's next turn the target takes Xd4 damage, reducing the *Bleed* count by 1 each turn passively. It may be mitigated by an ally taking the *Help* action, the target or an ally passing a *Medicine* check of DC 10 + X, or by restoration spells.
 
 #### Laid to Rest
+
+*The dead have long been a threat to the average man in this land as the dead rarely stay below the ground. In modern days, there have been great leaps made to make the dead's rest permanent. Whether by faith, magic, or tech, men of all nations have started to create cold graves that no necromancy can penetrate.*
+
+Any item or spell that has *Laid to Rest* prevents *Evil* aligned creatures, *Undead*, or *Fiends* from recieving healing effects for a time, if a turn count is unlisted then healing is prevented for three turns. As well, any creature that dies while under the effects of *Laid to Rest* or posthumously given *Laid to Rest* cannot be revived by any magic without the effect being dispelled or by restoration spells.
 
 # Factions of Elyrium
 
@@ -401,30 +407,43 @@ One such truly mad creature is Adarapura, the Lady of Flesh, who takes on the sh
 
 ----
 
-**Armor Class**
-**Hit Points**
-**Speed**
+**Armor Class** 18(Natural Armor)
+**Hit Points** 175
+**Speed** 35ft., 35ft. flying
 
 ----
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 16 (+3) | 14 (+2) | 15 (+2) | 10 (+0) | 8 (-1) | 12 (+1) |
+| 16 () | 14 () | 15 () | 22 () | 18 () | 16 () |
 
 ----
 
-**Saving Throws**
+**Saving Throws** STR +2, CON +5, INT +8, WIS +5, CHA +3
 
-**Skills**
+**Skills** Arcana +20, History +20, Medicine +15, Athletics +10, Acrobatics +5
 
-**Senses**
+**Senses** Truesight 120ft., Passive Perception 22
 
-**Languages** Common, 
+**Languages** Common, Abyssal, Infernal, Primordial, Draconic, and 2 additional languages
 
 **Challenge** 1 () **Proficiency Bonus** +2
 
 ----
 
+*Legendary Resistance(3/Day).* If the creature fails a saving throw, it can choose to succeed instead.
+
+*Protect Me!* This creature can redirect a successful attack roll to a *Brethren Laity* ally within 10ft.
+
+*You Will be Useful, Even in Death.* If a creature has died, this creature can use a bonus action to roll a DC 15 check. The target dead creature is revived with half life, is *Undead* in addition to any other creature types, and the revived target loses any spell casting abilities. Can only be used three times per battle and only once per target. A target is ineligible to be revived by this ability if killed with *Radiant* damage, *Fire* Damage, or if the creature has been affected by the *Laid to Rest* status.
+
+*A Sculptor of Flesh and Blood.* The creature selects one ally, that creature gains a modifier from the *Rites of Remolding* table. This can be applied even if the target has already gained a modifier from *Rites of Remolding.*
+
+*And Down Came the Rain.* As an action, the creature can turn the weather within 500ft. of it into a *Blood Rain* event for 5 turns. Can only be used once per battle.
+
+*Baptism in the Blood.* The creature can use this ability on a single target, the target rolls a DC 10 WIS save, on a fail the target is affected by the *Charmed* status. The *Charmed* target also rolls a DC 10 CON save, on fail the target rolls a modifier on the *Rites of Remolding* table.
+
+*Bring forth a Wellspring of Blood and Hate.* The creature can kill all *Brethren* creatures within 100ft. of the caster, summoning one *Avatar of Blood's Wrath*, for each 5 *Brethren* creatures killed by this ability the *Avatar of Blood's Wrath* gains one legendary action or one legendary resistance(can have a max of 3 each).
 
 ***Actions***
 ----
