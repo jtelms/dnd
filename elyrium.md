@@ -115,6 +115,8 @@ Those cursed with The Seed of Life are usually left to become wistless, mutated 
 
 **Senses** Passive Perception 12
 
+**Condition Immunities** Charmed, Exhausted, Frightened, Paralyzed, Poisoned
+
 **Languages** Common, Abyssal, 1 additional language
 
 **Challenge** 2 () **Proficiency Bonus** +2
@@ -167,6 +169,8 @@ Those cursed with The Seed of Life are usually left to become wistless, mutated 
 **Skills** Arcana +10, History +10, Medicine +5
 
 **Senses** True Sight 50ft., Passive Perception 15
+
+**Condition Immunities** Charmed, Exhausted, Frightened, Paralyzed, Poisoned
 
 **Languages** Common, Abyssal, Draconic, 1 additional language
 
@@ -274,6 +278,8 @@ Those cursed with The Seed of Life are usually left to become wistless, mutated 
 
 **Skills** Arcana +15, History +15, Medicine +10
 
+**Condition Immunities** Charmed, Exhausted, Frightened, Paralyzed, Poisoned
+
 **Senses** True Sight 120ft., Passive Perception 18
 
 **Languages** Common, Abyssal, Draconic, Infernal, Primordial
@@ -341,6 +347,8 @@ Those cursed with The Seed of Life are usually left to become wistless, mutated 
 **Skills** Arcana +19, History +15, Insight +10, Perception +10
 
 **Damage Resistances** Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
+
+**Condition Immunities** Charmed, Exhausted, Frightened, Paralyzed, Poisoned
 
 **Senses** Truesight 120ft., Passive Perception 20
 
@@ -415,13 +423,17 @@ One such truly mad creature is Adarapura, the Lady of Flesh, who takes on the sh
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 16 () | 14 () | 15 () | 22 () | 18 () | 16 () |
+| 16 (+3) | 14 (+2) | 15 (+2) | 22 (+6) | 18 (+4) | 16 (+3) |
 
 ----
 
 **Saving Throws** STR +2, CON +5, INT +8, WIS +5, CHA +3
 
 **Skills** Arcana +20, History +20, Medicine +15, Athletics +10, Acrobatics +5
+
+**Damage Immunities** Slashing, Piercing, and Bludgeoning damage from nonmagical attacks; Cold; Necrotic
+
+**Condition Immunities** Charmed, Exhausted, Frightened, Paralyzed, Poisoned
 
 **Senses** Truesight 120ft., Passive Perception 22
 
@@ -443,12 +455,46 @@ One such truly mad creature is Adarapura, the Lady of Flesh, who takes on the sh
 
 *Baptism in the Blood.* The creature can use this ability on a single target, the target rolls a DC 10 WIS save, on a fail the target is affected by the *Charmed* status. The *Charmed* target also rolls a DC 10 CON save, on fail the target rolls a modifier on the *Rites of Remolding* table.
 
-*Bring forth a Wellspring of Blood and Hate.* The creature can kill all *Brethren* creatures within 100ft. of the caster, summoning one *Avatar of Blood's Wrath*, for each 5 *Brethren* creatures killed by this ability the *Avatar of Blood's Wrath* gains one legendary action or one legendary resistance(can have a max of 3 each).
+*Bring Forth a Wellspring of Blood and Hate.* The creature can kill all *Brethren* creatures within 100ft. of the caster, summoning one *Avatar of Blood's Wrath*, for each 5 *Brethren* creatures killed by this ability the *Avatar of Blood's Wrath* gains one legendary action or one legendary resistance(can have a max of 3 each).
 
 ***Actions***
 ----
 
+*Multiattack.* The creature can attack up to three times per action.
+
+*Expressions of Malice.* Melee Weapon Attack: +15 to hit, 5ft. reach, up to three targets. Hit: 30(2d20+10) slashing, piercing, or bludgeoining damage. Roll 1d4, apply *Poisoned*, *Bleed 1d4*, *Frightened*, *Stunned*.
+
+*Piercings of All Redoubts.* Ranged Weapon Attack: +10 to hit, 100ft. range, 15ft. circle. Hit: 20(2d10+8) piercing damage. Ignores damage resistances. Deals an additional 2d12 fire, cold, poison, or necrotic damage, roll 1d4 to determine damage type.
+
+*Spellcasting.* The creature is a 17th-Level spellcaster. The creature has the following spells and spell slots:
+
+    - Cantrips(At Will): Toll the Dead, Message, Infestation, Fire Bolt, Lightning Lure, Mind Sliver, Sapping Sting
+    - 1st-Level(4 slots): Cause Fear, False Life, Mage Armor, Shield, Silvery Barbs, Tasha's Hideous Laughter, Thunderwave, Sleep, Witch Bolt
+    - 2nd-Level(3 slots): Blindness/Deafness, Crown of Madness, Hold Person, Levitate, Mind Spike, Ray of Enfeeblement, Tasha's Mind Whip, Darkness, Shatter
+    - 3rd-Level(3 slots): Counterspell, Fear, Fireball, Spirit Shroud, Vampiric Touch, Summon Lesser Demons, Animate Dead, Bestow Curse, Hypnotic Pattern
+    - 4th-Level(3 slots): Blight, Evard's Black Tentacles, Phantasmal Killer, Spirit of Death, Summon Greater Demon, Dimension Door
+    - 5th-Level(2 slots): Dominate Person, Infernal Calling, Danse Macabre, Summon Draconic Spirit
+    - 6th-Level(2 slot): Soul Cage, Create Undead, Summon Fiend, Mass Suggestion
+    - 7th-Level(2 slot): Finger of Death, Power Wod: Pain, Plane Shift
+    - 8th-Level(1 slot): Power Word: Stun, Reality Break, Maddening Darkness
+    - 9th-Level(1 slot): Power Word: Kill, Time Stop
+
 ----
+
+***Legendary Actions***
+----
+
+The creature can take 3 legendary actions, choosing from teh options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The creature regains its legendary actions every 3 turns.
+
+*Cantrip(Costs 1 action).* The creature casts a cantrip.
+
+*Bonus Attack!(Costs 1 action).* The creature gets to make 1 attack, this attack action does not get multiattack effects.
+
+*You Will be Useful, Even in Death(Costs 2 Actions).* Allows use of this ability as a legendary action.
+
+*Equivalent Exchange of Magicka(Costs 2 Actions).* Allows the creature to change an 8th-Level or 9th-Level spell for another one from the Wizard Spell List.
+
+*Fell Arcanum(Costs 3 Actions).* Allows the creature to cast a spell of any available spell slot from any spell list.
 
 **Description**
 
