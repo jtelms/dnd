@@ -411,7 +411,7 @@ Heretic Primuses are not all that uncommon due to them falling to delusions of g
 One such truly mad creature is Adarapura, the Lady of Flesh, who takes on the shape of a hemaphroditic sphinx with three heads; one of a young woman, a middle aged woman, and a wizened crone. Her flesh being totally exposed with acursed runes carved into it, and, as if to show Yaldaboth's displeasure, her flesh is speckled by maggot-infested tumors.
 
 ###### Ancestra of Unified Blood
-*Medium Humanoid, Chaotic Evil*
+*Large Humanoid, Chaotic Evil*
 
 ----
 
@@ -500,34 +500,48 @@ The creature can take 3 legendary actions, choosing from teh options below. Only
 
 
 ###### Avatar of Blood's Wrath
-*Medium Humanoid, Chaotic Evil*
+*Large Monstrosity, Chaotic Neutral*
 
 ----
 
-**Armor Class**
-**Hit Points**
-**Speed**
+**Armor Class** 20(Natural Armor)
+**Hit Points** 616
+**Speed** 50ft.
 
 ----
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 16 (+3) | 14 (+2) | 15 (+2) | 10 (+0) | 8 (-1) | 12 (+1) |
+| 25 (+7) | 15 (+2) | 20 (+5) | 10 (+0) | 14 (+2) | 4 (-3) |
 
 ----
 
-**Saving Throws**
+**Saving Throws** STR +10, DEX +2, CON +10
 
-**Skills**
+**Skills** Athletics +20, Arcana +10, Animal Handling +20
 
-**Senses**
+**Damage Immunities** Slashing, Piercing, and Bludgeoning damage
 
-**Languages**
+**Damage Resistances** Magical Damage
+
+**Condition Immunities** Frightened, Charmed, Poisoned, Paralyzed, Exhausted
+
+**Senses** Truesight 500ft., Passive Perception 25
+
+**Languages** Any (Communicates Telepathically)
 
 **Challenge** 1 () **Proficiency Bonus** +2
 
 ----
 
+*The Great Deluge of Viscous Blood.* The creature can create a permanent *Blood Rain* event within 1000ft. of it. This event also revives any dead creature within the radius of this ability, creatures are not revived if killed by *Radiant* damage, *Fire* damage, or if the creatures are under the effects of *Laid to Rest*. The creatures revived are Undead, in addition to any other creature types, and any creature with an INT above 15 retains any casting abilities it had in life.
+
+*Veins of Burning Mana.* The creature can roll 1d10, the result corresponding to a spell level(0 is a Cantrip, 1 is 1st level, and so on). Choose one spell of that level from any spell list and cast it. This spell is unable to be countered, except by a 7th-level or higher counterspell effect. This spell is used as an action. This spell uses the CON as its spell casting modifier and has a 20 spell save DC. Wish can only choose to use these effects:
+   
+    - Gain an additional action
+    - Heal 2d100 Hit Points
+    - Cast a spell of 8th-Level or lower immediately
+    - Restore Legendary Actions or Legendary Resistances
 
 ***Actions***
 ----
