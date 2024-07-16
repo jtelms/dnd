@@ -455,7 +455,7 @@ One such truly mad creature is Adarapura, the Lady of Flesh, who takes on the sh
 
 *Baptism in the Blood.* The creature can use this ability on a single target, the target rolls a DC 10 WIS save, on a fail the target is affected by the *Charmed* status. The *Charmed* target also rolls a DC 10 CON save, on fail the target rolls a modifier on the *Rites of Remolding* table.
 
-*Bring Forth a Wellspring of Blood and Hate.* The creature can kill all *Brethren* creatures within 100ft. of the caster, summoning one *Avatar of Blood's Wrath*, for each 5 *Brethren* creatures killed by this ability the *Avatar of Blood's Wrath* gains one legendary action or one legendary resistance(can have a max of 3 each).
+*Bring Forth a Wellspring of Blood and Hate.* The creature can kill all *Brethren* creatures within 100ft. of the caster, summoning one *Avatar of Blood's Wrath*, for each 5 *Brethren* creatures killed by this ability the *Avatar of Blood's Wrath* gains one legendary action(can have a max of 3 each).
 
 ***Actions***
 ----
@@ -536,6 +536,12 @@ The creature can take 3 legendary actions, choosing from teh options below. Only
 
 *The Call of Unity.* When this creature takes damage it can, as a reaction, devour an allied creature to gain hit points equal to the remaining hit points of the creature devoured. For each creature devoured by this ability, add 1d6 to the damage of *Gore Beam*.
 
+*A Mound of Writhing Flesh.* This creature is unable to be grappled and unable to be moved by any external force.
+
+*The Form of the Great Creator.* This creature is able to, as an action, make its surroundings into a lair for the purposes of lair actions.
+
+*Aspect of Incubation.* This creature deal Xd20 damage to itself, for each d20 dealt this creature can summon that amount of CR 10 or lower creatures.
+
 *The Great Deluge of Viscous Blood.* The creature can create a permanent *Blood Rain* event within 1000ft. of it. This event also revives any dead creature within the radius of this ability, creatures are not revived if killed by *Radiant* damage, *Fire* damage, or if the creatures are under the effects of *Laid to Rest*. The creatures revived are Undead, in addition to any other creature types, and any creature with an INT above 15 retains any casting abilities it had in life.
 
 *Veins of Burning Mana.* The creature can roll 1d10, the result corresponding to a spell level(0 is a Cantrip, 1 is 1st level, and so on). Choose one spell of that level from any spell list and cast it. This spell is unable to be countered, except by a 7th-level or higher counterspell effect. This spell is used as an action. This spell uses CON as its spell casting modifier and has a 20 spell save DC. Wish can only choose to use these effects:
@@ -557,6 +563,18 @@ The creature can take 3 legendary actions, choosing from teh options below. Only
 *Devour.* Melee Weapon Attack: +0 to hit, 10ft. reach, one target. Hit: Target and creature roll competeing STR checks, on target failure, target becomes *Part of the Beast*. When a target is *Part of the Beast* it becomes *Incapacitated* and is considered to not be on the field any longer, only one target can be *Part of the Beast* at any given time. The creature can eject a target that is *Part of the Beast* as a bonus action. When a target is *Part of the Beast*, the creature can use any abilities that target had, including spellcasting, equipment, and class abilities. The target that is *Part of the Beast* makes a straight roll each turn it is affected by that condition, it must roll a natural 20 to escape being *Part of the Beast*, with the treshold reducing by 1 for each turn it is affected by that condition; upon success, the target is given a free action, any attacks are made at advantage and automatically have critical damage, including spells. The target is placed 50ft. away from the creature in any direction they choose after this action.
 
 ----
+
+***Legendary Actions***
+
+The creature can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The creature regains its legendary actions every 3 turns.
+
+*Shrug.(Costs 1 Action)*  This creature can use this as a reaction upon failing a save, this creature automatically passes the save.
+
+*Quickened Metabolism.(Costs 3 Actions)* This creature takes an action during an enemy's turn.
+
+*Howl of the Mound.(Costs 2 Actions)* This creature can force all enemies to roll a DC 15 STR save, all failures are *Stunned* until the end of their next turn.\
+
+*Teratogenic Breath.(Costs 2 Action)* This creature rolls 1d100, then distribute the result as healing to allied creatures, cannot include itself.
 
 **Description**
 
