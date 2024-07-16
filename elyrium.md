@@ -576,6 +576,26 @@ The creature can take 3 legendary actions, choosing from the options below. Only
 
 *Teratogenic Breath.(Costs 2 Action)* This creature rolls 1d100, then distribute the result as healing to allied creatures, cannot include itself.
 
+***Lair and Lair Actions***
+
+The Avatar of Blood's Wrath is a writhing mass of flesh and bodies, moving of its chaotic internal impulses, influenced by the malignant will of the flesh god it is made in the image of. Usually, if this horror is to be found, it will be found gestating inside a major pit of the Church of Sanctified Blood, connected to major vessels and fed mounds of sacrifices. Its lair is a pit replete with pools of stagnating blood and corpses as both sacrifice and decoration, limbs laid out in macabre shrines. However, anywhere can become its home, as it can root its tendrils into the earth, churning the bodies of the dead into a sludgy slurry, able to raise walls of gore to protect itself from without and to trap its prey within.
+
+**Lair Actions**
+
+On initiative count 20 (winning intiative ties), the creature takes a lair action to cause one of the following effects; teh creature cannot use the same effect two rounds in a row.
+
+- Pools of blood within 120 of the creature sprout grasping hands that seek to drag enemy creatures beneath their surface. Any creature within 10ft. of a pool must succeed on a DC 15 STR save or be dragged 20 ft. under the surface of the pool of blood and *Restrained*.
+- Warped eaters of carrion erupt in columns of cacophony, driven toward the fresh meat that entered their breeding grounds, hidden within staleing corpses. Up to three targets are harrased by these flesh locusts, forcing the targets to roll a DC 15 CON save, on fail the targets take 3d10 piercing damage or half as much on a success.
+- From various dangling blood vessels and gastric tracts a fine mist of blood and digestive juices dance in clouds across the pit. Up to three 15 ft. sphere shaped clouds form in the pit, these clouds are treated as completely obscuring and cannot be seen through except with *Truesight*. Any creature that ends their turn within one of these clouds, or if the cloud moves into a creature, takes 2d20 acid damage or poison damage. The clouds can be moved by the creature as a lair action, as an action, or as a legendary action. The clouds disappear if the creature dies.
+
+**Regional Effects**
+
+The region around The Avatar's lair is warped by corruption from The Seed of Life and by the faithful of the Church. This creates one or more of the following effects:
+
+- The land within 6 miles of the lair takes twice as long to traverse, the land being saturated with blood and giving way to foot traffic as if it were mud. The air and land reek with the smell of iron and fetid water.
+- Water sources within 1 mile of the lair are fouled by the influence of the cretaure and its followers, waterways take on the consistency of coagulated blood and taste of rust. Enemies of the creature who drink the water regurgitate it immediately and are *Poisoned* until healed as their body rejects the foul liquid.
+- Within 1 mile of the lair, there is a consistent *Blood Rain* and every hour one character must make a DC 12 DEX or Perception check, being struck by *Witch Bolt* on failure.
+- Mists of blood obscures the land within 6 miles of the lair.
 **Description**
 
 ## The Tribes of the Ossificans
