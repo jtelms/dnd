@@ -530,13 +530,15 @@ The creature can take 3 legendary actions, choosing from teh options below. Only
 
 **Languages** Any (Communicates Telepathically)
 
-**Challenge** 1 () **Proficiency Bonus** +2
+**Challenge** 30 **Proficiency Bonus** +2
 
 ----
 
+*The Call of Unity.* When this creature takes damage it can, as a reaction, devour an allied creature to gain hit points equal to the remaining hit points of the creature devoured. For each creature devoured by this ability, add 1d6 to the damage of *Gore Beam*.
+
 *The Great Deluge of Viscous Blood.* The creature can create a permanent *Blood Rain* event within 1000ft. of it. This event also revives any dead creature within the radius of this ability, creatures are not revived if killed by *Radiant* damage, *Fire* damage, or if the creatures are under the effects of *Laid to Rest*. The creatures revived are Undead, in addition to any other creature types, and any creature with an INT above 15 retains any casting abilities it had in life.
 
-*Veins of Burning Mana.* The creature can roll 1d10, the result corresponding to a spell level(0 is a Cantrip, 1 is 1st level, and so on). Choose one spell of that level from any spell list and cast it. This spell is unable to be countered, except by a 7th-level or higher counterspell effect. This spell is used as an action. This spell uses the CON as its spell casting modifier and has a 20 spell save DC. Wish can only choose to use these effects:
+*Veins of Burning Mana.* The creature can roll 1d10, the result corresponding to a spell level(0 is a Cantrip, 1 is 1st level, and so on). Choose one spell of that level from any spell list and cast it. This spell is unable to be countered, except by a 7th-level or higher counterspell effect. This spell is used as an action. This spell uses CON as its spell casting modifier and has a 20 spell save DC. Wish can only choose to use these effects:
    
     - Gain an additional action
     - Heal 2d100 Hit Points
@@ -546,6 +548,13 @@ The creature can take 3 legendary actions, choosing from teh options below. Only
 ***Actions***
 ----
 
+*Multiattack.* This creature can attack twice each turn.
+
+*Tendrils of Malignant Adaptation.* Melee Weapon Attack: +15 to hit, 30ft. reach, one target. Hit: 40() true damage. Target rolls DC 18 proficiency save, roll 1d6 and apply one of these conditions on fail: Paralyzed, Poisoned, Exhausted, Charmed, Grappled, Petrified.
+
+*Gore Beam.* Ranged Weapon Attack: +10 to hit, 100ft. range, 10ft. wide line. Hit: 35() true damage. Target rolls DC 18 STR or DEX save, knocked prone on failure.
+
+*Devour.* Melee Weapon Attack: +0 to hit, 10ft. reach, one target. Hit: Target and creature roll competeing STR checks, on target failure, target becomes *Part of the Beast*. When a target is *Part of the Beast* it becomes *Incapacitated* and is considered to not be on the field any longer, only one target can be *Part of the Beast* at any given time. The creature can eject a target that is *Part of the Beast* as a bonus action. When a target is *Part of the Beast*, the creature can use any abilities that target had, including spellcasting, equipment, and class abilities. The target that is *Part of the Beast* makes a straight roll each turn it is affected by that condition, it must roll a natural 20 to escape being *Part of the Beast*, with the treshold reducing by 1 for each turn it is affected by that condition; upon success, the target is given a free action, any attacks are made at advantage and automatically have critical damage, including spells. The target is placed 50ft. away from the creature in any direction they choose after this action.
 
 ----
 
