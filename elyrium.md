@@ -410,7 +410,7 @@ The most machievalian and maddened of those who partake in Yaldaboth's blood sac
 Heretic Primuses are not all that uncommon due to them falling to delusions of grandeur, creating cults in their graven images. A heretic Primus will take their personal transformations further than any other in their sect of flesh and blood. 
 One such truly mad creature is Adarapura, the Lady of Flesh, who takes on the shape of a hemaphroditic sphinx with three heads; one of a young woman, a middle aged woman, and a wizened crone. Her flesh being totally exposed with acursed runes carved into it, and, as if to show Yaldaboth's displeasure, her flesh is speckled by maggot-infested tumors.
 
-###### Ancestra of Unified Blood
+### Ancestra of Unified Blood
 *Large Humanoid, Chaotic Evil*
 
 ----
@@ -499,7 +499,7 @@ The creature can take 3 legendary actions, choosing from teh options below. Only
 **Description**
 
 
-###### Avatar of Blood's Wrath
+### Avatar of Blood's Wrath
 *Large Monstrosity, Chaotic Neutral*
 
 ----
@@ -603,3 +603,49 @@ The region around The Avatar's lair is warped by corruption from The Seed of Lif
 ## Blessed of Yaldaboth
 
 ## Blood Rain Abominations
+
+### Risen Wolf
+*Medium Monstrosity/Beast, Unaligned*
+
+----
+
+**Armor Class:** 13(Natural Armor)
+
+**Hit Points:** 11(2d8 + 2)
+
+**Speed:** 40ft.
+
+----
+
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| 12(+1) | 15(+2) | 12(+1) | 3(-4) | 12(+1) | 6(-2) |
+
+----
+
+**Skills:** Perception +3, Stealth +4
+
+**Senses:** Passive Perception 13
+
+**Languages:** --
+
+**Challenge:** 1/2(100 XP)
+
+----
+
+**Driven By Hunger.** The creature is drawn to attack the character last injured by an attack or to a character that is affected by *Bleed*.
+
+**Keen Hearing and Smell.** The cretaure has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+**Pack Tactics.** The creature has advantage on attack rolls against a target if at least one of the creature's allies is within 5 feet and the ally ins't *Incapactitated*.
+
+----
+
+***Actions***
+
+**Bite.** *Melee Weapon Attack:* +4 to hit, 5ft. reach, one target. Hit: 7(2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 STR save or be knocked *prone* and affected by *Bleed 1*.
+
+----
+
+***Description***
+
