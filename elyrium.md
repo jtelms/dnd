@@ -733,3 +733,41 @@ The region around The Avatar's lair is warped by corruption from The Seed of Lif
 
 **Latching Vessels.** *Melee Weapon Attack:* +0 to hit, range 10ft., one target. Hit: 5 (1d6 + 2) piercing damage. The target must succeed on a competeing STR check or be *Grappled* and take *Bleed 1* on each turn it is *Grappled* by this attack.
 
+### Dextera Striges
+*Small Monstrosity, Unaligned*
+
+----
+
+**Armor Class** 11 (Natural Armor)
+
+**Hit Points** 10 (2d8 + 1)
+
+**Speed** fly 30ft.
+
+----
+
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| 12(+1) | 15(+2) | 12(+1) | 6(-2) | 5(-3) | 1(-5) |
+
+----
+
+**Damage Immunities** Poison
+
+**Condition Immunities** Exhausted, Frightened, Poisoned
+
+**Senses** Passive Perception 11
+
+**Languages** --
+
+**Challenge** 1/4(50 XP)        **Proficiency Bonus** +2
+
+----
+
+***Actions***
+
+**Multiattack.** The creature can make two attacks during its turn.
+
+**Tolling Screams.** *Ranged Weapon Attack:* +0 to hit, range 20ft., one target. Hit: 3 (1d6) psychic damage. The target must succeed on a DC 10 CON save or be *Deafened*. The must also succeed on a DC 10 WIS save or be *Frightened*.
+
+**Grasping Claws.** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage. The target must succeed on a DC 10 CON save or take *Bleed 1*.
