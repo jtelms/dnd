@@ -685,11 +685,11 @@ The region around The Avatar's lair is warped by corruption from The Seed of Lif
 
 **Driven By Hunger.** The creature is drawn to attack the character last injured by an attack or to a character that is affected by *Bleed*.
 
-**Unsound Graves.** When this creature dies for the first time in an encounter, it can roll a DC 12 save and it revives with half health and initiative 20 on a success. This ability is unable to be used if the creature was killed by *Radiant* damage, *Fire* damage, or if it was affected by *Laid to Rest*.
+**Unsound Graves.** When this creature dies for the first time in an encounter, it can roll a DC 15 save and it revives with half health and initiative 20 on a success. This ability is unable to be used if the creature was killed by *Radiant* damage, *Fire* damage, or if it was affected by *Laid to Rest*.
 
 ***Actions***
 
-**Fetid Claws.** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. Hit: 5(1d6 + 2) slashing damage. The target must succeed on a DC 10 STR save or take an it takes an additional 1d4 slashing damage and the creature gains that as *temporary health*.
+**Fetid Claws.** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. Hit: 5(1d6 + 2) slashing damage. The target must succeed on a DC 10 STR save or take an it takes an additional 1d4 slashing damage and the creature gains that damage as *temporary hit points*.
 
 **Mud and Blood.** *Ranged Weapon Attack:* +0 to hit, range 25 ft., one target. Hit: 5(1d6 + 2) bludgeoning damage. The target must succeed on a DC 11 CON save or be *poisoned*. 
 
@@ -816,3 +816,42 @@ The region around The Avatar's lair is warped by corruption from The Seed of Lif
 **Fall Upon the Prey.** *Melee Weapon Attack:* +2 to hit, reach 5ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage. The target must succeed on a DC 12 STR save or be knocked *Prone*. Can only be used once if the target fails the STR save and is *prone*.
 
 **Corpse Grinder.** *Melee Weapon Attack:* +2 to hit, reach 5ft., one target. Hit: 5 (1d6 + 3) piercing damage. The target must succeed on a DC 10 CON save or take *Bleed 2*. Attack is made at advantage if used after a failed STR save on *Fall Upon the Prey*. Half of the damage dealt by this attack, rounded down, is given to the creature as *temporary hit points*.
+
+### Goremark Angler
+*Large Monstrosity, Unaligned*
+
+----
+
+**Armor Class** 11 (Natural Armor)
+
+**Hit Points** 15 (3d6 + 5)
+
+**Speed** 0ft.
+
+----
+
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| 17(+3) | 8(-1) | 16(+3) | 6(-2) | 5(-3) | 1(-5) |
+
+----
+
+**Senses** Passive Perception 18
+
+**Languages** 1 of Common, Elvish, Dwarfish, or Orcish
+
+**Challenge** 1/2 (100 XP)      **Proficiency Bonus** +2
+
+----
+
+**What's Beneath the Surface.** This creature is considered invisible until it has attacked during an encounter.
+
+**A Call in the Rain.** Any perception checks made against this creature or its lure has multiple failure and success conditions as followed: Natural 20 reveals that it is a trap and should be avoided, Above 15 reveals that the lure seems uncanny and shouldn't be approached, Above 10 but below 15 would register as odd to see but not inherently suspicious, below 10 passes all senses and seems like a genuinely distressed person.
+
+**The Angler's Lure.** The creature is made of two parts, the body and the lure. The lure takes the appearance of a humanoid creature of either human, elvish, or orcish ancestry. The lure can speak and act as a normal creature but it cannot attack. When the lure is moving, the body also moves, however after the creature attacks, it assumes all normal behaviors according to its stats.
+
+***Actions***
+
+**The Hook is Set.** *Melee Weapon Attack:* +10 to hit, reach 15ft., sphere. Hit: 22 (4d8 + 4) piercing and slashing damage. The target must make a DC 16 Athletics check or be *grappled*. The target must also make a DC 13 CON save or take *Bleed 2*.
+
+**Reeling in the Catch.** *Melee Weapon Attack:* +0 to hit, reach 5ft., one target *grappled* by *The Hook is Set*. Hit: 0 damage. The target must succeed on a DC 14 STR save or be dragged into the ground. The target is first dragged up to the waist, where it can make the next check normally, if they succeed here thy escape the *grapple*. The target is then dragged up to the neck, where it makes its next check with disadvantage, if they succeed here they make it back to waist deep. The target is then dragged to the point that only hands are visible, the target can only be helped by another character at this point. If another check on this attack is made after the target is only left with hands above the surface, the target is fully dragged under the surface and into the gullet of the monster, where a DC 18 check is rolled, killing the target on a failure, on a success the target deals double damage on an attack and is able to escape the *grapple*.
