@@ -771,3 +771,48 @@ The region around The Avatar's lair is warped by corruption from The Seed of Lif
 **Tolling Screams.** *Ranged Weapon Attack:* +0 to hit, range 20ft., one target. Hit: 3 (1d6) psychic damage. The target must succeed on a DC 10 CON save or be *Deafened*. The must also succeed on a DC 10 WIS save or be *Frightened*.
 
 **Grasping Claws.** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage. The target must succeed on a DC 10 CON save or take *Bleed 1*.
+
+### Gore Walker
+*Medium Undead, Neutral Evil*
+
+----
+
+**Armor Class** 13(Scraps of Armor, Natural Armor)
+
+**Hit Points** 30 (5d8 + 8)
+
+**Speed** 40ft.
+
+----
+
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| 15(+2) | 10(+0) | 16(+3) | 6(-2) | 5(-3) | 1(-5) |
+
+----
+
+**Damage Vulnerabilities** Radiant, Fire
+
+**Damage Immunities** Poison
+
+**Condition Immunities** Exhausted, Frightened, Charmed, Poisoned
+
+**Senses** Darkvision 60ft., Passive Perception 10
+
+**Languages** Any the creature would have known in life, cannot speak intelligibly
+
+**Challenge** 1/2(100XP)        **Proficiency Bonus** +2
+
+----
+
+**Driven By Hunger.** The creature is drawn to attack the character last injured by an attack or to a character that is affected by *Bleed*.
+
+**Unsound Graves.** When this creature dies for the first time in an encounter, it can roll a DC 12 save and it revives with half health and initiative 20 on a success. This ability is unable to be used if the creature was killed by *Radiant* damage, *Fire* damage, or if it was affected by *Laid to Rest*.
+
+***Actions***
+
+**Multiattack.** The creature can make two attacks per turn.
+
+**Fall Upon the Prey.** *Melee Weapon Attack:* +2 to hit, reach 5ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage. The target must succeed on a DC 12 STR save or be knocked *Prone*. Can only be used once if the target fails the STR save and is *prone*.
+
+**Corpse Grinder.** *Melee Weapon Attack:* +2 to hit, reach 5ft., one target. Hit: 5 (1d6 + 3) piercing damage. The target must succeed on a DC 10 CON save or take *Bleed 2*. Attack is made at advantage if used after a failed STR save on *Fall Upon the Prey*. Half of the damage dealt by this attack, rounded down, is given to the creature as *temporary hit points*.
