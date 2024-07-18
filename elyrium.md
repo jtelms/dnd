@@ -692,3 +692,44 @@ The region around The Avatar's lair is warped by corruption from The Seed of Lif
 **Fetid Claws.** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. Hit: 5(1d6 + 2) slashing damage. The target must succeed on a DC 10 STR save or take an it takes an additional 1d4 slashing damage and the creature gains that as *temporary health*.
 
 **Mud and Blood.** *Ranged Weapon Attack:* +0 to hit, range 25 ft., one target. Hit: 5(1d6 + 2) bludgeoning damage. The target must succeed on a DC 11 CON save or be *poisoned*. 
+
+
+### Falloon-of-the-Rain
+*Medium Monstrosity, Unaligned*
+
+----
+
+**Armor Class** 12 (Natural Armor)
+
+**Hit Points** 27 (6d8)
+
+**Speed** 15ft., fly 30ft.
+
+----
+
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| 12(+1) | 14(+2) | 15(+2) | 6(-2) | 8(-1) | 5(-3) |
+
+----
+
+**Damage Vulnerabilities** Slashing
+
+**Senses** Passive Perception 9
+
+**Languages** --
+
+**Challenge** 1/4(50 XP)        **Proficiency Bonus** +2
+
+----
+
+**Cacpohany of Madness.** An enemy creature that ends its turn within 30ft. of this creature must succeed on a DC 12 WIS save or either be *Charmed* or *Frightened* (can either be determined by a coin flip, by odds and evens on a 1d4 roll, or by selection of the DM).
+
+**A Cloud of Red Mist.** This creature is surrounded by a cloud of red mist, this cloud is a 15ft. sphere centered on the creature, this cloud is considered darkness.
+
+***Actions***
+
+**Effluvia Discharge.** *Ranged Weapon Attack:* +2 to hit, range 30ft., cone. Hit: 7 (2d6) poison damage. The target must succeed on a DC 11 CON save or be *Poisoned*.
+
+**Latching Vessels.** *Melee Weapon Attack:* +0 to hit, range 10ft., one target. Hit: 5 (1d6 + 2) piercing damage. The target must succeed on a competeing STR check or be *Grappled* and take *Bleed 1* on each turn it is *Grappled* by this attack.
+
