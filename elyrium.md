@@ -629,7 +629,7 @@ The region around The Avatar's lair is warped by corruption from The Seed of Lif
 
 **Languages:** --
 
-**Challenge:** 1/2(100 XP)
+**Challenge:** 1/4(50 XP)
 
 ----
 
@@ -649,3 +649,46 @@ The region around The Avatar's lair is warped by corruption from The Seed of Lif
 
 ***Description***
 
+
+### Muck-Ridden Skeleton
+*Medium Undead, Neutral Evil*
+
+----
+
+**Armor Class** 13 (Armor Scraps)
+
+**Hit Points** 13 (2d8 + 4)
+
+**Speed** 30ft.
+
+----
+
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| 10(+0) | 14(+2) | 15(+2) | 6(-2) | 8(-1) | 5(-3) |
+
+----
+
+**Damage Vulnerabilities** Bludgeoning
+
+**Damage Immunities** Poison
+
+**Condition Immunities** Exhaustion, Poisoned, Frightened, Charmed
+
+**Senses** Darkvision 60ft., Passive Perception 10
+
+**Languages** Any language it would have understood in life, cannot speak intelligibly
+
+**Challenge** 1/4(50XP)         **Proficiency Bonus** +2
+
+----
+
+**Driven By Hunger.** The creature is drawn to attack the character last injured by an attack or to a character that is affected by *Bleed*.
+
+**Unsound Graves.** When this creature dies for the first time in an encounter, it can roll a DC 12 save and it revives with half health and initiative 20 on a success. This ability is unable to be used if the creature was killed by *Radiant* damage, *Fire* damage, or if it was affected by *Laid to Rest*.
+
+***Actions***
+
+**Fetid Claws.** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. Hit: 5(1d6 + 2) slashing damage. The target must succeed on a DC 10 STR save or take an it takes an additional 1d4 slashing damage and the creature gains that as *temporary health*.
+
+**Mud and Blood.** *Ranged Weapon Attack:* +0 to hit, range 25 ft., one target. Hit: 5(1d6 + 2) bludgeoning damage. The target must succeed on a DC 11 CON save or be *poisoned*. 
