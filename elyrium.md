@@ -603,7 +603,23 @@ The region around The Avatar's lair is warped by corruption from The Seed of Lif
 ## Blessed of Yaldaboth
 
 ## Blood Rain Abominations
+## Called by the Rains
+*When scarlet lightning illuminates crimson clouds and the stench of fetid iron follows rain, that is the call of the God of the Northerners. Accompanying these foul rains are the cries of the dead as they claw their way out from the slurried ground, making their way towards any signs of life, marching with a maddened hunger.*
+    - From *Studies On The Gods of the North*, by Dr. Issac Harlowe
 
+The creatures of this subfaction appear when there is a *Blood Rain Event* occuring in the local area, they also have a need to attack and devour living creatures that are not part of *Blood Rain Abominations*.
+## Danse Macabre
+*As the crimson mists crawl across the landscape, the smell of iron wrenches into the noses of those poor enough to be caught in the rain, and as the color of blood washes over anything the rain touches, the echoing cries of the dead begin to rumble beneath the ground. Even the coldest graves begin to stir with malign unlive, wrenching the peaceful dead back into a painful mockery of their previous existence. The corruption of The Seed of Life cannot be escaped, it comes for both the living and the dead.*
+    - From the *Apocalypsos Demonicon*, written by Aeobarth of Holfield 
+
+The DM may modify and use any stat sheet as one the *Blood Rain Abominations*, key considerations are as follows:
+    - Restrictions or removal of spell casting abilities
+    - Changing of elemental damage types to *Acid*, *Poison*, *Bleeding*, or physical damage types
+    - Adding in revival mechanics from stat blocks listed below
+    - Adjusting or changing resistances, especially against conditions like *Poisoned* and *Charmed*
+    - Adjusting of Ability Scores, emphasizing STR and CON, as well as reducing INT, WIS, and CHA, as a general rule
+    - Creatures are considered *Undead* in addition to other types and typically fall under *Evil* or *Unaligned* alignments
+## 
 ### Risen Wolf
 *Medium Monstrosity/Beast, Unaligned*
 
