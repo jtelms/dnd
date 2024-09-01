@@ -18,7 +18,6 @@ Blood rain events come in multiple levels of severity, affecting weather conditi
 
 - Deluge: The metallic ringing becomes a constant clanging, like a hammer pounding into an anvil, a bell being tolled directly into a character's ears. Every 15 minutes, every character in these conditions must roll a DC 15 CON check or be *Deafened* permanently. The iron in the falling blood acts like small blades and needles, without adequate protection characters take 1d4 damage each round, characters must roll a DC 12 CON check, taking *Bleed 1* on failure. This attrition carries over to equipment as well, every 30 minutes in these consitions requires a DC 15 Proficiency check, on failure a character's non-magical equipment starts taking visible damage, after 3 failed checks the affected equipment becomes half as effective (AC minimum of 10 on armor), and after 5 failures affected equipment breaks and becomes ineffective. The mists become even thicker and richer in corruption, affecting characters every minute that they find themselves in thicker clouds of mist, as well as vision becoming drastically obscured, vision of all types is cut down to 30 feet, as well as all *Initiative*, *Perception*, *Survival*, and *Investigation* rolls relying on sight being made with *Double Disadvantage*. The ground becomes a complete mire, becoming *Difficult Terrain*, reducing all movement to 15 feet, requiring a DC 18 STR check to jump or take flight from the ground, and characters are unable to take the *Dash* action. Warrens of the dead and graveyards are completely emptied, creatures from long forgotten battlefields rise to fight the living that no longer recognize them, and the muck mashes together bits of the dead into new monstrous nightmares; creatures (up to CR 10) rise in numerous waves to seek out the living. The weather actively seeks to smite those bild enough to remain out in these conditions, every 10 minutes every character stuck in these conditions must roll a DC 16 Acrobatics or Athletics check or be struck by the effects of the *Lightning Bolt* spell.
 
-
 ### Status Effects
 #### Bleed Tokens
 
@@ -613,6 +612,14 @@ The region around The Avatar's lair is warped by corruption from The Seed of Lif
 **Description**
 
 ## The Tribes of the Ossificans
+## Making of the Great Ancestors
+*The tribal life revolves around *
+## Ossifica Syntherosi
+## Fractious Nomads
+
+### Hunter of the Tribe
+
+### 
 
 ## Blessed of Yaldaboth
 
