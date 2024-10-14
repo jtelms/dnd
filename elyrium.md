@@ -892,3 +892,56 @@ The DM may modify and use any stat sheet as one the *Blood Rain Abominations*, k
 **The Hook is Set.** *Melee Weapon Attack:* +10 to hit, reach 15ft., sphere. Hit: 22 (4d8 + 4) piercing and slashing damage. The target must make a DC 16 Athletics check or be *grappled*. The target must also make a DC 13 CON save or take *Bleed 2*.
 
 **Reeling in the Catch.** *Melee Weapon Attack:* +0 to hit, reach 5ft., one target *grappled* by *The Hook is Set*. Hit: 0 damage. The target must succeed on a DC 14 STR save or be dragged into the ground. The target is first dragged up to the waist, where it can make the next check normally, if they succeed here thy escape the *grapple*. The target is then dragged up to the neck, where it makes its next check with disadvantage, if they succeed here they make it back to waist deep. The target is then dragged to the point that only hands are visible, the target can only be helped by another character at this point. If another check on this attack is made after the target is only left with hands above the surface, the target is fully dragged under the surface and into the gullet of the monster, where a DC 18 check is rolled, killing the target on a failure, on a success the target deals double damage on an attack and is able to escape the *grapple*.
+
+## The Pact-Kept
+### Pact-Keeper Enelorne
+*Medium Humanoid, Lawful Evil*
+
+----
+
+**Armor Class** 14 (Magical Armor)
+
+**Hit Points** 80 (7d20 + 6)
+
+**Speed** 30ft.
+
+----
+
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| 8(-1) | 10(+0) | 14(+2) | 17(+3) | 16(+3) | 14(+2) |
+
+
+----
+
+**Senses**
+
+**Languages**
+
+**Challenge** 1/1 (XXX XP)      **Proficiency Bonus** +2
+
+----
+
+**The Command of the Pact-Keeper** Any *Pactbound Mortals* or *Promised* can be directed to use their actions at a specific target marked by the caster. Also when the caster is attacked by an enemy it can use a *Reaction* to force a *Pactbound Mortal* or *Promised* within movement range to move in front of the caster and redirect the damage to that creature.
+
+**Imago Mysticam** Any *Illusion* school spell cast by the caster are percieved as real to any other creature, decieving the creature's senses completely, and can be interacted with as if it were the real object(s). Any attack made with an illusion affected by this ability will do damage equivalent its real counterpart. Can only be percieved as an illusion by high perception rolls (15+) or by powerful dispelling and detection spells.
+
+**Magic Bound to the Soulless** Any spell cast by the caster can originate from any *Pactbound Mortal* or *Promised*, the spell is precieved to be spontaneous to low perceptions, as a curse to middling perceptions, and its intentional nature is evident to high perceptions.
+
+**Vile Hexen** Any *Mark* or *Hex* inflicted by this caster can have its effects morphed by the dark and unpredictable streams of mana that the caster taps in to, these additional effects are as follows:
+    - *Hexen of Dark Illusions:* the target is cloaked in a field of magical *Darkness* that extends 5ft from the target, the caster can see the target normally, however all other creatures must possess *Truesight* to see through the effect.
+    - *Hexen of Spiralling Thoughts:* the target must make a DC 12 *WIS* save or be affected by the *Fear* status, critical failures inflict *Berserk* instead.
+    - *Hexen of Unnatural Enervation:* the target must make a DC 12 *WIS* save or be affected by *Sleep* and take 1 level of *Exhaustion*.
+
+***Actions***
+
+**Gouging Metal Nails** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. Hit: 6 (1d4 + 3) slashing damage.
+
+**Spellcasting** The creature is a 12th level spellcaster. Its spells and slots are as follows:
+    - Cantrips(At Will): Eldritch Blast, Drafyn's Bane of Excellence, Friends, Mind Sliver, Minor Illusion, Word of Misfortune
+    - 1st-Level(5 slots): Color Spray, Disguise Self, Hex, Shield, Silent Image, Charm Person, Bane
+    - 2nd-Level(3 slots): Arcanist's Magic Aura, Blur, Crown of Madness, Hold Person, Invisibility, Mirror Image, Misty Step, Shadow Blade, Tasha's mind Whip
+    - 3rd-Level(3 slots): Counterspell, Fear, Fly, Hypnotic Pattern, Void Strike, Major Image, Bestow Curse
+    - 4th-Level(3 slots): Hallucinatory Terrain, Portho's Portal, Shadow of Moil
+    - 5th-Level(2 slots): Dominate Person, Mislead, Seeming
+
