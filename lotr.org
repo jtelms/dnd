@@ -1,1 +1,31 @@
 #+title: Lord of the Rings Campaign Notes
+* Beginning of Adventure
+** Bree: The Town of Beginnings
+*** The Prancing Pony
+*** The Town Notice Board
+**** Sundry Notices and Personals
+***** A Delivery Gone Awry
+***** The Local Harvest Festival
+***** A Lady's Needs
+**** A Farmer's Request
+*Posted By:* Farmer, Geoff Haywood
+
+*Location:* Haywood Farm
+
+#+BEGIN_VERSE
+To Whomever takes up this writ,
+See me at my farmhouse, a day's journey to the Northwest of Bree in the fields of the Lone Lands, the building with a red thatch roof.
+Something has killed half of my herd and nearly clawed my son's arm off while he was shepherding in the pastures.
+He said it was a massive beast with glowing red eyes and shimmering claws, it ran off toward Allen's Gully to the West of the farm.
+I am a wizened man, unable to take on a sheep, let alone some fell beast.
+I don't have much, however I will give what I can.
+
+-- Geoff, Farmer of Bree
+#+END_VERSE
+
+*Reward:* Twenty Silver
+**** Dark Riders's Rumors
+A report by a local hunter injured in an encounter with dark riders
+**** A Bandit's Trade
+The local smith was robbed by bandits along the eastern road on the way back from retrieving supplies
+****
