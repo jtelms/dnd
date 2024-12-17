@@ -4,11 +4,15 @@
 *** The Prancing Pony
 *** The Town Notice Board
 **** Sundry Notices and Personals
+/"Between the many banal requests for farm hands, errand runners, and love-seekers, there are a few outstanding small writs for those willing to prospect for opportunities./
+
+If a party decides to roll *Investigation, Perception, or Insight* checks while at the notice board, reveal these quests to the party as more adventuring fare.
+
 ***** A Delivery Gone Awry
 ***** The Local Harvest Festival
 ***** A Lady's Needs
 **** A Farmer's Request
-*Posted By:* Farmer, Geoff Haywood
+*Posted By:* Geoff Haywood
 
 *Location:* Haywood Farm
 
@@ -23,9 +27,36 @@ I don't have much, however I will give what I can.
 -- Geoff, Farmer of Bree
 #+END_VERSE
 
-*Reward:* Twenty Silver
+*Reward:* Five Silver
 **** Dark Riders's Rumors
-A report by a local hunter injured in an encounter with dark riders
+*Posted By:* Celendwil
+
+*Location:* The Crossroads to the North Downs
+
+#+BEGIN_VERSE
+Grim Tidings to those of the Bree Lands,
+Whilst hunting and travelling the southern fields of the Downs, I had spied dark riders making their ways to south of my favored grounds.
+Normally, I have no fears in the fields here, yet the sight of these figures sent a chill to my heart and sent me away in flight.
+They had a fell appearance, darkness followed them and moonlight flooded in behind their tracks, perhaps they are heralds of some dark lord.
+Should you find out anything of substance or chase these spectres from our lands, come to the Northern Downs, I will find you.
+Best of luck, and good hunting.
+
+-- Celendwil
+#+END_VERSE
+
+*Reward:* +2 Silver+, *Death*
 **** A Bandit's Trade
-The local smith was robbed by bandits along the eastern road on the way back from retrieving supplies
-****
+*Posted By:* William Nailsmith
+
+*Location:* Bree Smith's Shop
+
+#+BEGIN_VERSE
+Hail,
+While making my way home from a routine travail to Stow for ore so that I may ply my trade bandits fell upon me.
+Bastards robbed me of nearly all but my life, I scarcely convinced them to let me keep my shirt.
+Be wary along the western ways, those sons-of-whores jump out from the swells in the plains, just out of sight.
+Should you find them, do what you will, they are no better than wolves, just don't forget my iron.
+I'll make you a piece or two for your efforts, if justice isn't enough.
+#+END_VERSE
+
+*Reward:* A custom piece from the smith
